@@ -21,7 +21,7 @@ This [Laravel Lumen](https://lumen.laravel.com) starter template is intended to 
  * [Travis-CI](https://travis-ci.org) integration:
     * Checks [psr-2 compliance](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) with [phpcs](https://github.com/squizlabs/PHP_CodeSniffer).
     * Runs [phpunit](https://phpunit.de/) tests within docker containers.
-    * Pushes deploy-ready containers for `develop`, `staging`, `master` branches to [DockerHub](http://hub.docker.com).
+    * Pushes deploy-ready containers for `staging` and `master` branches to [DockerHub](http://hub.docker.com).
  * [Dredd support](https://github.com/apiaryio/dredd) for ensuring accurate API documentation.
 
 <a name="using-this-repo" />
